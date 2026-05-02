@@ -1,1 +1,1 @@
-# TAI-2376-Deep-Learning-Artificial-Intelligence
+# ITAI-2376-Deep-Learning-Artificial-Intelligence
