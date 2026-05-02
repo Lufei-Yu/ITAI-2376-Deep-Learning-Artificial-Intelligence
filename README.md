@@ -4,13 +4,19 @@ This course focuses on understanding how intelligent systems are designed, train
 
 Throughout this repository, you will find projects, assignments, experiments, and implementations covering key AI concepts such as:
 
-Fundamentals of Artificial Intelligence
-Machine Learning algorithms and model development
-Neural Networks and Deep Learning Architectures
-Natural Language Processing (NLP)
-Computer Vision
-Model training, evaluation, and optimization
-Real-world AI applications and problem-solving
+Fundamentals of Artificial Intelligence;
+
+Machine Learning algorithms and model development;
+
+Neural Networks and Deep Learning Architectures;
+
+Natural Language Processing (NLP);
+
+Computer Vision;
+
+Model training, evaluation, and optimization;
+
+Real-world AI applications and problem-solving.
 
 The purpose of this repository is to document coursework, showcase practical implementations, and demonstrate hands-on experience with tools and frameworks commonly used in the AI industry.
 
