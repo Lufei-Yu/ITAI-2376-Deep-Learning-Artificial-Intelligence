@@ -9,10 +9,10 @@ The goal of this project is to classify movie reviews as positive or negative se
 We solve this using a SimpleRNN-based deep learning model:
 
 - Dataset: IMDb movie review dataset (pre-tokenized)
-- Preprocessing:
--Limit vocabulary size (e.g., 10,000 words)
--Pad/truncate reviews to fixed length (e.g., 500 words)
-- Model Architecture:
+Preprocessing:
+-- Limit vocabulary size (e.g., 10,000 words)
+-- Pad/truncate reviews to fixed length (e.g., 500 words)
+ Model Architecture:
 - Embedding Layer (word vector representation)
 - SimpleRNN layer (captures sequential dependencies)
 - Dense layer with sigmoid activation for binary classification
