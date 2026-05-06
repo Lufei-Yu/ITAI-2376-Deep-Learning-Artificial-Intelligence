@@ -1,32 +1,33 @@
-# README for Lab 3 – Convolutional Neural Networks
+# README for Lab 3 – Convolutional Neural Networks (CNNs)
 
 ## Problem Statement
-This lab focuses on improving neural network training through optimization algorithms and regularization techniques to reduce overfitting and improve generalization.
+This lab introduces convolutional neural networks for image classification tasks. The goal is to understand how convolution, pooling, and deep architectures improve performance on visual data.
 
 ## Approach
-- Compared optimizers: SGD, Adam, RMSProp.
-- Implemented regularization methods:
-  - L2 weight decay
-  - Dropout layers
-  - Early stopping
-- Plotted training vs. validation loss to analyze model behavior.
+- Built a CNN with convolution, pooling, and fully connected layers.
+- Trained on an image dataset (e.g., CIFAR-10, MNIST, or custom dataset).
+- Experimented with:
+  - Kernel sizes
+  - Number of filters
+  - Network depth
+- Evaluated performance using accuracy and confusion matrices.
 
 ## Results
-- Dropout reduced overfitting and improved validation accuracy.
-- Early stopping prevented unnecessary training and improved generalization.
+- Deeper models improved accuracy but required more training time.
+- The confusion matrix revealed common misclassifications.
 
 ## Key Findings
-- Regularization is essential for preventing overfitting.
-- Optimizer choice affects both speed and stability of training.
-- Visualization of loss curves helps diagnose model issues.
+- CNNs outperform fully connected networks on image tasks.
+- Kernel size and filter count strongly influence feature extraction.
+- Data augmentation can significantly improve accuracy.
 
-## Technologies Used  
-- PyTorch or TensorFlow  
-- Matplotlib / Seaborn  
+## Technologies Used
+- PyTorch / TensorFlow / Keras  
+- Matplotlib  
 - Jupyter Notebook
 
 ## How to Run
-1. Launch the notebook in Jupyter or Google Colab.
+1. Open the notebook in Jupyter or Colab.
 2. Install dependencies:
    ```bash
    pip install torch torchvision matplotlib
