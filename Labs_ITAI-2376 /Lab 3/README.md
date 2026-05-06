@@ -27,7 +27,4 @@ This lab introduces convolutional neural networks for image classification tasks
 - Jupyter Notebook
 
 ## How to Run
-1. Open the notebook in Jupyter or Colab.
-2. Install dependencies:
-   ```bash
-   pip install torch torchvision matplotlib
+- Open the notebook in Jupyter or Colab.
