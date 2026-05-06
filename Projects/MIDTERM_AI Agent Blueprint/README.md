@@ -4,6 +4,13 @@
 ## Problem Statement
 The goal of this project is to design a functional blueprint for an AI agent capable of operating autonomously within a defined environment. The agent must perceive inputs, make decisions, and execute actions based on AI principles learned in the course.
 
+# Team Member
+*Tien Manh Nguyen 
+*Lufei Yu 
+*Phillip Torres
+*Oman Malek
+
+
 ## Approach
 - Defined the agent’s **environment**, **state space**, and **action space**.
 - Designed the **agent architecture**, including:
