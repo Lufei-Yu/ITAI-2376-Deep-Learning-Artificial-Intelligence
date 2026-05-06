@@ -28,7 +28,4 @@ This capstone lab integrates all concepts learned throughout the course. The obj
 - Jupyter Notebook
 
 # How to Run
-1. Open the notebook in Jupyter or Google Colab.
-2. Install dependencies:
-   ```bash
-   pip install torch pandas matplotlib
+- Open the notebook in Jupyter or Google Colab.
