@@ -42,15 +42,5 @@ Each lab focuses on a core concept in modern AI and is designed to be hands-on, 
     - Perform data preprocessing, model design, training, and evaluation.  
     - Write a short report summarizing approach, results, and limitations.
 
----
 
-## Repository structure
 
-```text
-Labs_ITAI-2376/
-├── Lab 2/
-├── Lab 3/
-├── Lab 5/
-├── Lab 8/
-├── Lab 9/
-└── README.md   <-- this file
