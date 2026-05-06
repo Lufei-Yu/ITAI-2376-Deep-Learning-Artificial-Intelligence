@@ -24,7 +24,5 @@ This lab explores the fundamentals of neural networks by building and training a
 - Jupyter Notebook
 
 ## How to Run
-1. Open the notebook in Jupyter or Google Colab.
-2. Install dependencies:
-   ```bash
-   pip install numpy matplotlib torch tensorflow
+- Open the notebook in Jupyter or Google Colab.
+
