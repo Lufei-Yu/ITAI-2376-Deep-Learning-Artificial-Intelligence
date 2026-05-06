@@ -10,7 +10,8 @@ Each project is designed to apply course concepts in a practical, end‑to‑end
 # **MIDTERM – AI Agent Blueprint**
 A structured blueprint outlining the design of an intelligent agent, including architecture, decision‑making logic, environment interaction, and evaluation criteria.
 
+# **FINAL - AI Agent Creation**
+This project presents the design and implementation of a fully functional AI agent capable of perceiving its environment, making decisions, and executing actions autonomously.
+
 ---
-# Team Member
-Tien Manh Nguyen, Lufei Yu, Phillip Torres, Oman Malek
 
